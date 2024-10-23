@@ -9,3 +9,10 @@
 
 ![iropa demo](images/iropa.png)
   
+### Chemical Reaction Dashboard
+#### Key Features 
+- Interactive visualiztion of chemical reaction experiment data.
+- Incorporation of cleaned literature data.
+
+![](images/gcp_dashboard1.png)
+  
