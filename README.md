@@ -3,7 +3,7 @@
 ## Work Projects
 ### Prototype of web application: Intelligent Chemical Route Assessment
 #### Key Features 
-- Visual representation of chemical synthesis tree.
+- Automatically parse imported file and give visual representation of chemical synthesis tree.
 - Standardized data input through a configured database.
 - Automated metrics calculation and visualization.
 
@@ -35,7 +35,10 @@ This study introduces an innovative approach to designing dynamic follow-up ques
 In traditional surveys, respondents are given predefined answer choices for each question, with an “Other” option to capture responses that fall outside these categories. However, when respondents choose “Other”, it is often not feasible to ask follow-up questions, as there are no predefined ones for this option, limiting the richness of the data collected.    
 With the advent of generative AI, many traditional research methods can be enhanced to improve their capabilities. As one of the most common quantitative research methods, survey presents opportunity for AI integration, where AI can play a significant role not only in data analysis, but also in data collection through dynamic intelligent question design.    
 This study aims to explore how generative AI can be employed to address the limitation in survey by designing follow-up questions tailored to respondents’ unique input in the “Other” option. By leveraging AI’s ability to understand and generate human language, researchers can gain more insights, especially in exploratory studies where the predefined choices may not fully capture the range of potential responses.
-![](images/isurvey.png)
+
+![](images/isurvey.png)  
+#### Demo
+![](images/isurvey.gif)
 
 
 
