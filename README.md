@@ -1,4 +1,5 @@
-## Portfolio
+# Portfolio
+## Work Projects
 ### Prototype of web application: Intelligent Chemical Route Assessment
 #### Key Features 
 - Automatically parse imported file and give visual representation of chemical synthesis tree.
