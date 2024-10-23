@@ -25,6 +25,6 @@ Financial institutions strive to persuade clients to adopt a more strategic, lon
 #### Improvement idea
 The storytelling nudge targeted at old males showed opposite effect, decreasing their interest in seeking further information. The potential cause of this backfire is the failure to invoke participants’ identification with the story character. With the large language models, it is possible to present personalized stories based on socio-demographic information of experiment subjects rather than four pre-written rigid stories that failed to resonate with every subject.   
 #### Demo
-![](storynudge/app_demo.gif)
+![](images/app_demo.gif)
 
 
