@@ -27,4 +27,19 @@ The storytelling nudge targeted at old males showed opposite effect, decreasing 
 #### Demo
 ![](images/app_demo.gif)
 
+## Personal Projects
+### AI-powered Follow-up Question Design in Structured Survey
+#### Abstract
+This study introduces an innovative approach to designing dynamic follow-up question in structured survey based on respondents’ input. To demonstrate the feasibility of this concept, a multi-agent AI workflow was designed and a demo application was developed with ChatGPT model. This approach aims to enhance the depth of data collection by generating tailored follow-up questions, particularly for respondents selecting the “Other” option, allowing for more flexible and richer survey responses.    
+#### Introduction
+In traditional surveys, respondents are given predefined answer choices for each question, with an “Other” option to capture responses that fall outside these categories. However, when respondents choose “Other”, it is often not feasible to ask follow-up questions, as there are no predefined ones for this option, limiting the richness of the data collected.    
+With the advent of generative AI, many traditional research methods can be enhanced to improve their capabilities. As one of the most common quantitative research methods, survey presents opportunity for AI integration, where AI can play a significant role not only in data analysis, but also in data collection through dynamic intelligent question design.    
+This study aims to explore how generative AI can be employed to address the limitation in survey by designing follow-up questions tailored to respondents’ unique input in the “Other” option. By leveraging AI’s ability to understand and generate human language, researchers can gain more insights, especially in exploratory studies where the predefined choices may not fully capture the range of potential responses.
+![](images/isurvey.png)
+
+
+
+
+
+
 
