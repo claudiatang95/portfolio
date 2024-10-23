@@ -14,7 +14,7 @@
 - Interactive visualiztion of chemical reaction experiment data.
 - Incorporation of cleaned literature data.
 
-![](images/gcp_dashboard1.png)
+![](images/dashboard1.png)
 
 ![](images/gcp_dashboard2.png)
 
