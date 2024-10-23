@@ -16,7 +16,15 @@
 
 ![](images/dashboard1.png)
 
-![](images/gcp_dashboard2.png)
+![](images/dashboard2.png)
 
-## Capstone Projects for Master Courses
+## Master thesis
+### Affecting Client Attitudes: An Application of Behavioral Nudges to Information Campaigns by Financial Institutions
+#### Abstract
+Financial institutions strive to persuade clients to adopt a more strategic, long-term approach to managing their wealth, benefiting both clients and institutions. This paper aims to investigate whether minimal information nudges can lead individuals to shift from savings to investments. We conducted an online experiment where 345 Italian adults were assigned randomly to three information nudges and a control condition. Results showed that a simple storytelling nudge was particularly effective among young males, prompting them to seek more investment information. The nudge including social influence cues was also effective in certain conditions. Notably, nudges were most impactful among young people, those over 65, and non-working respondents—groups typically less interested in investments. These findings suggest that nudging can be a cost-effective approach for financial institutions to design information campaigns.    
+#### Improvement idea
+The storytelling nudge targeted at old males showed opposite effect, decreasing their interest in seeking further information. The potential cause of this backfire is the failure to invoke participants’ identification with the story character. With the large language models, it is possible to present personalized stories based on socio-demographic information of experiment subjects rather than four pre-written rigid stories that failed to resonate with every subject.   
+#### Demo
+![](storynudge/app_demo.gif)
+
 
