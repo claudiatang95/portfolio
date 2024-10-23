@@ -1,4 +1,4 @@
-## Work Projects
+## Portfolio
 ### Prototype of web application: Intelligent Chemical Route Assessment
 #### Key Features 
 - Automatically parse imported file and give visual representation of chemical synthesis tree.
@@ -22,6 +22,7 @@
 Financial institutions strive to persuade clients to adopt a more strategic, long-term approach to managing their wealth, benefiting both clients and institutions. This paper aims to investigate whether minimal information nudges can lead individuals to shift from savings to investments. We conducted an online experiment where 345 Italian adults were assigned randomly to three information nudges and a control condition. Results showed that a simple storytelling nudge was particularly effective among young males, prompting them to seek more investment information. The nudge including social influence cues was also effective in certain conditions. Notably, nudges were most impactful among young people, those over 65, and non-working respondents—groups typically less interested in investments. These findings suggest that nudging can be a cost-effective approach for financial institutions to design information campaigns.    
 #### Improvement idea
 The storytelling nudge targeted at old males showed opposite effect, decreasing their interest in seeking further information. The potential cause of this backfire is the failure to invoke participants’ identification with the story character. With the large language models, it is possible to present personalized stories based on socio-demographic information of experiment subjects rather than four pre-written rigid stories that failed to resonate with every subject.   
+[see codes](https://github.com/claudiatang95/storynudge)
 #### Demo
 ![](images/app_demo.gif)
 
@@ -40,8 +41,8 @@ To demonstrate the feasibility of generating dynamic follow-up questions with ge
 - Question designer: design follow-up question and choices.
 - Reviewer: a. Review whether the generated question repeats or overlaps with the previous questions b. Improve the wording based on survey design principles.
 
-[see codes](https://github.com/claudiatang95/isurvey)
-[see full report](https://drive.google.com/file/d/1CN1L7eKnIOe_yNsewZDVrgrO2Edhjgvh/view?usp=share_link)
+[see codes](https://github.com/claudiatang95/isurvey)          
+[see complete report](https://drive.google.com/file/d/1CN1L7eKnIOe_yNsewZDVrgrO2Edhjgvh/view?usp=share_link)
 
 
 ![](images/isurvey.png)  
