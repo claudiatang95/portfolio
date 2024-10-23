@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Work Projects
 ### Prototype of web application: Intelligent Chemical Route Assessment
 #### Key Features 
@@ -34,7 +32,17 @@ This study introduces an innovative approach to designing dynamic follow-up ques
 #### Introduction
 In traditional surveys, respondents are given predefined answer choices for each question, with an “Other” option to capture responses that fall outside these categories. However, when respondents choose “Other”, it is often not feasible to ask follow-up questions, as there are no predefined ones for this option, limiting the richness of the data collected.    
 With the advent of generative AI, many traditional research methods can be enhanced to improve their capabilities. As one of the most common quantitative research methods, survey presents opportunity for AI integration, where AI can play a significant role not only in data analysis, but also in data collection through dynamic intelligent question design.    
-This study aims to explore how generative AI can be employed to address the limitation in survey by designing follow-up questions tailored to respondents’ unique input in the “Other” option. By leveraging AI’s ability to understand and generate human language, researchers can gain more insights, especially in exploratory studies where the predefined choices may not fully capture the range of potential responses.
+This study aims to explore how generative AI can be employed to address the limitation in survey by designing follow-up questions tailored to respondents’ unique input in the “Other” option. By leveraging AI’s ability to understand and generate human language, researchers can gain more insights, especially in exploratory studies where the predefined choices may not fully capture the range of potential responses.  
+
+#### AI Agents
+To demonstrate the feasibility of generating dynamic follow-up questions with generative AI, I designed a multi-agent AI workflow, as illustrated in the following figure. This workflow includes three agents:      
+- Task manager: decides whether the follow-up question is necessary based on two criteria: a. Whether the respondent’s input is relevant to the question. b. Whether the input is broad so the follow-up question should be generated (it could be hard to define “broad”, which will be discussed in the discussion section).
+- Question designer: design follow-up question and choices.
+- Reviewer: a. Review whether the generated question repeats or overlaps with the previous questions b. Improve the wording based on survey design principles.
+
+[see codes](https://github.com/claudiatang95/isurvey)
+[see full report](https://drive.google.com/file/d/1CN1L7eKnIOe_yNsewZDVrgrO2Edhjgvh/view?usp=share_link)
+
 
 ![](images/isurvey.png)  
 #### Demo
