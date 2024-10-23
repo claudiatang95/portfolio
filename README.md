@@ -7,5 +7,5 @@
 - Standardized data input through a configured database.
 - Automated metrics calculation and visualization.
 
-
+![][iropa.png]
   
