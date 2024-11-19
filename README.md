@@ -1,10 +1,16 @@
 # Portfolio
 ## Work Projects
-### Prototype of web application: Intelligent Chemical Route Assessment
+### Prototype of web application: Intelligent Chemical Route Assessment Platform
 #### Key Features 
 - Automatically parse imported file and give visual representation of chemical synthesis tree.
-- Standardized data input through a configured database.
+- Standardized data input through a chemical database.
 - Automated metrics calculation and visualization.
+
+#### My role
+- Designed and developed prototype with R Shiny.
+- Collected and cleaned chemical reagent data from various sources, establishing the first standardized database.
+- Translated methodologies from academic papers and Excel files into algorithms with R and Python.
+- Collaborated with software development vendors as a product manager to oversee and guide development processes.
 
 ![iropa demo](images/iropa.png)
   
@@ -12,6 +18,9 @@
 #### Key Features 
 - Interactive visualiztion of chemical reaction experiment data.
 - Incorporation of cleaned literature data.
+
+#### My role
+Collected, cleaned and analyzed data, designed and developed the dashboard. 
 
 ![](images/dashboard1.png)
 
