@@ -36,6 +36,22 @@ The storytelling nudge targeted at old males showed opposite effect, decreasing 
 #### Demo
 ![](images/app_demo.gif)
 
+## Master course project
+### Communication on Twitter during 2020 Coronavirus Outbreak
+#### Key Features 
+- Collected English tweets with hashtag #coronavirus every two days from 25 January to 12 February with R rtweet package. In total 261745 tweets were collected.
+- Explored and classified topics of 200 most popular tweets using GPT-4o model and few-shot prompt.
+- Compared classification performance between GPT-4o and word embeddings.
+
+#### Key Findings
+- During early stages of Covid-19 outbreak, the most popular tweets largely focused on updates of pandemic, personal opinions, individual stories and public reactions.Information on preventive measures accounted for a smaller proportion.
+- The misinformation that covid-19 was a bioweapon or human-made began to receive attention.
+- Word embeddings was a more “cautious” approach as it tended to classify ambiguous text to the dominant category. GPT-4o was more “explorative” and less influenced by category imbalance, yielding higher accuracy and F1 score.
+
+[see codes](https://github.com/claudiatang95/Twitter_Coronavirus/tree/master/classification_2024)      
+[see complete report](https://drive.google.com/file/d/1VhSvPv0uvM2gdfdG5rynnqf3b66IfAdU/view?usp=share_link)
+
+
 ## Personal Projects
 ### AI-powered Follow-up Question Design in Structured Survey
 #### Abstract
